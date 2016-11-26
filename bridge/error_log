@@ -1,0 +1,40 @@
+[20-Sep-2015 13:55:46 UTC] PHP Fatal error:  Call to undefined function comments_number() in /home/mr1leyhrm98/public_html/hrmdesigns.com/wp-content/themes/bridge/comments.php on line 2
+[01-Oct-2015 08:08:19 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/mr1leyhrm98/public_html/hrmdesigns.com/wp-content/themes/bridge/index.php on line 1
+[17-Oct-2015 18:10:47 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/mr1leyhrm98/public_html/hrmdesigns.com/wp-content/themes/bridge/index.php on line 1
+[14-Dec-2015 04:31:51 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/mr1leyhrm98/public_html/hrmdesigns.com/wp-content/themes/bridge/index.php on line 1
+[27-Jan-2016 16:10:51 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/mr1leyhrm98/public_html/hrmdesigns.com/wp-content/themes/bridge/index.php on line 1
+[01-Mar-2016 12:38:19 UTC] PHP Fatal error:  Call to undefined function language_attributes() in /home/mr1leyhrm98/public_html/hrmdesigns.com/wp-content/themes/bridge/header.php on line 2
+[01-Mar-2016 12:38:19 UTC] PHP Fatal error:  Call to undefined function get_template_directory() in /home/mr1leyhrm98/public_html/hrmdesigns.com/wp-content/themes/bridge/functions.php on line 5
+[01-Mar-2016 12:38:19 UTC] PHP Fatal error:  Call to a member function get_queried_object_id() on a non-object in /home/mr1leyhrm98/public_html/hrmdesigns.com/wp-content/themes/bridge/footer.php on line 2
+[01-Mar-2016 12:38:21 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/mr1leyhrm98/public_html/hrmdesigns.com/wp-content/themes/bridge/archive.php on line 1
+[01-Mar-2016 12:38:22 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/mr1leyhrm98/public_html/hrmdesigns.com/wp-content/themes/bridge/404.php on line 5
+[01-Mar-2016 12:38:23 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/mr1leyhrm98/public_html/hrmdesigns.com/wp-content/themes/bridge/404.php on line 5
+[03-Mar-2016 21:13:37 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/mr1leyhrm98/public_html/hrmdesigns.com/wp-content/themes/bridge/index.php on line 1
+[14-Mar-2016 07:44:59 UTC] PHP Fatal error:  Call to undefined function get_template_directory() in /home/mr1leyhrm98/public_html/hrmdesigns.com/wp-content/themes/bridge/functions.php on line 5
+[14-Mar-2016 07:44:59 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/mr1leyhrm98/public_html/hrmdesigns.com/wp-content/themes/bridge/404.php on line 5
+[14-Mar-2016 07:44:59 UTC] PHP Fatal error:  Call to a member function get_queried_object_id() on a non-object in /home/mr1leyhrm98/public_html/hrmdesigns.com/wp-content/themes/bridge/footer.php on line 2
+[21-May-2016 13:27:48 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/mr1leyhrm98/public_html/hrmdesigns.com/wp-content/themes/bridge/404.php on line 5
+[23-May-2016 02:35:50 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/mr1leyhrm98/public_html/hrmdesigns.com/wp-content/themes/bridge/404.php on line 5
+[17-Jun-2016 10:41:35 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/mr1leyhrm98/public_html/hrmdesigns.com/wp-content/themes/bridge/404.php on line 5
+[18-Jun-2016 10:38:56 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/mr1leyhrm98/public_html/hrmdesigns.com/wp-content/themes/bridge/404.php on line 5
+[18-Jun-2016 15:56:32 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/mr1leyhrm98/public_html/hrmdesigns.com/wp-content/themes/bridge/404.php on line 5
+[05-Jul-2016 23:59:26 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/mr1leyhrm98/public_html/hrmdesigns.com/wp-content/themes/bridge/404.php on line 5
+[08-Jul-2016 18:30:53 UTC] PHP Fatal error:  Call to undefined function get_template_directory() in /home/mr1leyhrm98/public_html/hrmdesigns.com/wp-content/themes/bridge/functions.php on line 5
+[08-Jul-2016 18:38:20 UTC] PHP Fatal error:  Call to undefined function load_theme_textdomain() in /home/mr1leyhrm98/public_html/hrmdesigns.com/wp-content/themes/bridge/functions.php on line 5
+[08-Jul-2016 21:20:40 UTC] PHP Fatal error:  Call to undefined function load_theme_textdomain() in /home/mr1leyhrm98/public_html/hrmdesigns.com/wp-content/themes/bridge/functions.php on line 5
+[26-Jul-2016 10:55:29 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/mr1leyhrm98/public_html/hrmdesigns.com/wp-content/themes/bridge/404.php on line 5
+[26-Jul-2016 10:55:37 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/mr1leyhrm98/public_html/hrmdesigns.com/wp-content/themes/bridge/404.php on line 5
+[28-Jul-2016 05:37:17 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/mr1leyhrm98/public_html/hrmdesigns.com/wp-content/themes/bridge/404.php on line 5
+[29-Jul-2016 04:43:53 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/mr1leyhrm98/public_html/hrmdesigns.com/wp-content/themes/bridge/404.php on line 5
+[03-Aug-2016 09:46:34 UTC] PHP Fatal error:  Call to undefined function get_template_directory() in /home/mr1leyhrm98/public_html/hrmdesigns.com/wp-content/themes/bridge/functions.php on line 5
+[03-Aug-2016 13:24:26 UTC] PHP Fatal error:  Call to undefined function get_template_directory() in /home/mr1leyhrm98/public_html/hrmdesigns.com/wp-content/themes/bridge/functions.php on line 5
+[03-Aug-2016 14:46:29 UTC] PHP Fatal error:  Call to undefined function load_theme_textdomain() in /home/mr1leyhrm98/public_html/hrmdesigns.com/wp-content/themes/bridge/functions.php on line 5
+[05-Aug-2016 19:12:13 UTC] PHP Fatal error:  Call to undefined function get_template_directory() in /home/mr1leyhrm98/public_html/hrmdesigns.com/wp-content/themes/bridge/functions.php on line 5
+[06-Aug-2016 03:28:01 UTC] PHP Fatal error:  Call to undefined function get_template_directory() in /home/mr1leyhrm98/public_html/hrmdesigns.com/wp-content/themes/bridge/functions.php on line 5
+[07-Aug-2016 16:40:40 UTC] PHP Fatal error:  Call to undefined function language_attributes() in /home/mr1leyhrm98/public_html/hrmdesigns.com/wp-content/themes/bridge/header.php on line 2
+[07-Aug-2016 16:40:41 UTC] PHP Fatal error:  Call to a member function get_queried_object_id() on a non-object in /home/mr1leyhrm98/public_html/hrmdesigns.com/wp-content/themes/bridge/footer.php on line 2
+[07-Aug-2016 16:40:43 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/mr1leyhrm98/public_html/hrmdesigns.com/wp-content/themes/bridge/404.php on line 5
+[10-Aug-2016 17:49:37 UTC] PHP Fatal error:  Call to undefined function get_template_directory() in /home/mr1leyhrm98/public_html/hrmdesigns.com/wp-content/themes/bridge/functions.php on line 5
+[10-Aug-2016 23:22:15 UTC] PHP Fatal error:  Call to undefined function load_theme_textdomain() in /home/mr1leyhrm98/public_html/hrmdesigns.com/wp-content/themes/bridge/functions.php on line 5
+[11-Aug-2016 04:49:03 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/mr1leyhrm98/public_html/hrmdesigns.com/wp-content/themes/bridge/index.php on line 1
+[17-Sep-2016 16:00:11 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/mr1leyhrm98/public_html/hrmdesigns.com/wp-content/themes/bridge/index.php on line 1
